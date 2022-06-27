@@ -1,0 +1,5 @@
+#systemProp.http.proxyHost="http://www-proxy-hqdc.us.oracle.com"
+#systemProp.http.proxyPort=80
+#systemProp.https.proxyHost="https://www-proxy-hqdc.us.oracle.com"
+#systemProp.https.proxyPort=80
+
